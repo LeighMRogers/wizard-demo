@@ -58,6 +58,19 @@ h1 {
     background-color: antiquewhite;
 }
 
+.flex-item {
+    background-color: mistyrose;
+    flex: 1;
+    margin: 1em;
+    text-align: center;
+    border: 1px solid rosybrown;
+}
+
+.section-item {
+    margin: 0 auto;
+    width: 100%;
+}
+
 main {
     flex: 2;
     margin: 1em;
